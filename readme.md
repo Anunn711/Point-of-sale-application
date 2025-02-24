@@ -29,7 +29,9 @@ https://youtu.be/dQAOi1i__Rs
 * How to run the program
 * Step-by-step bullets
 ```
-npm run dev will execute the application
+npm install - will install the needed packages
+npm run dev - will execute the application
+To create a login - the admin password is admin
 ```
 npx jest (the spec file here) - a way to test the .js files 
 example : npx jest payment.spec.js
@@ -67,12 +69,6 @@ Contributors names and contact info
 
 
 Houston Hutchinson
-
-
-Alyssa Allen 
-
-
-Ryan Godbee
 
 Alexander Nunn
 [@ain2](https://uwf.instructure.com/profile)
